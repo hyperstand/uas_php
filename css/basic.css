@@ -1,0 +1,42 @@
+.offset
+{
+    margin-left:200px;
+}
+.offset .center-body
+{
+    margin:0 auto;
+}
+
+
+.round-image
+{
+    width:50px;
+    height:50px;
+    border-radius:50%;
+}
+.align-items-center
+{
+    align-items: center;
+    display: flex;
+}
+.none-list-style
+{
+    list-style-type:none;
+    padding:0;
+}
+.margin-0
+{
+    margin:0;
+}
+
+/*placement*/
+.basic-content
+{
+    margin-left:200px;
+    padding-top:40px;
+    padding-bottom:20px;
+}
+.basic-width-center-850px{
+    max-width:850px;
+    margin:0 auto;
+}

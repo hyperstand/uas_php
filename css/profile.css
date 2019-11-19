@@ -1,0 +1,119 @@
+.basic-info 
+{
+    border:1px solid;
+    padding-left:15px;
+    padding-left:10px;
+    padding-top:20px;
+    display: flex;
+    box-sizing: border-box;
+    align-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+.basic-info>.user-image
+{
+    width:75px;
+    height:75px;
+}
+.basic-info>.user-fname
+{
+    font-weight: 500;
+    font-size:20px;
+}
+.basic-info>.user-country
+{
+    font-size:15px;
+}
+.about-user
+{
+    border:1px solid;
+    padding:20px;
+    box-sizing: border-box;
+}
+.about-user>.title
+{
+    font-weight: 600;
+    font-size:15px;
+}
+.about-user>.content
+{
+    font-size:13px;
+}
+
+.tabs-profile
+{
+    border:1px solid black;
+    display:flex;
+    padding:15px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.general-button
+{
+    border:1px solid black;
+    background: #4d0000;
+    color:white;
+    text-align:center;
+    padding:6px;
+    font-size:14px;
+    margin-right:10px;
+    box-sizing: border-box;
+}
+.content-profile
+{
+    border:1px solid black;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+
+/* game-info */
+.games-info
+{
+    border:1px solid black;
+    display: flex;
+    margin-top:10px;
+}
+.games-info>.game-img
+{
+    width: 292px;
+    height: 136px;
+}
+
+.content-profile>.head
+{
+    display: flex;
+    align-items: center;
+    border:1px solid black;
+}
+.content-profile>.head>.title
+{
+    font-size:22px;
+}
+.games-info>.detail
+{
+    border:1px solid black;
+    margin-left:20px;
+    height:136px;
+    padding-top:10px;
+}
+.games-info>.detail>.name
+{   
+    font-size:22px;
+}
+.category
+{
+    display: flex;
+    font-size:13px;
+
+}
+.category>.category-button
+{
+    border:1px solid black;
+    margin-right:5px;
+    padding:5px;
+    color:black;
+}

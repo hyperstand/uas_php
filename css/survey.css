@@ -1,0 +1,220 @@
+.advantage,
+.testimony,
+.join-us
+{
+    width:100%;
+    border:1px solid transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-parent
+{
+    border:1px solid transparent;
+    
+    max-width:750px;
+    list-style:none;
+    padding :unset;
+}
+.advantage .card-parent
+{
+    border-top:.5px solid black;
+}
+.advantage  .card-parent >.card-child
+{
+    border:1px solid transparent;
+    display: flex;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.advantage  .card-child>.card-desc>.title
+{
+    font-weight:700;
+}
+.advantage  .card-child>.card-desc>.desc
+{
+    font-size:12px;
+}
+
+
+.join-us
+{
+
+}
+
+.survey-list
+{   
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: auto auto auto;
+    grid-gap: 15px;
+}
+.survey-content
+{   
+    
+    border:1px solid black;
+    padding-left:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:10px;
+    line-height:16px;
+}
+.survey-content .content-title
+{
+    font-size:20px;
+    margin:0;
+    padding:0;
+}
+.survey-content .total-response
+{
+    font-size:15px;
+    margin:0;
+    padding:0;
+}
+.tools
+{   
+    margin-top:30px;
+    width:auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+}
+
+.tools .button-tools
+{
+    border:1px solid black;
+    background: #4d0000;
+    color:white;
+    padding:10px 12px;
+    margin-right:10px;
+    
+}
+.survey-add
+{
+    border:1px solid black;
+    background: #4d0000;
+    color:white;
+    text-align:center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+}
+.survey-add > .large
+{
+    font-size:30px;
+}
+.survey>.text-desc
+{
+    font-size:5px;
+}
+
+.head-top
+{
+    display: flex;
+    align-items: center;
+    line-height:20px;
+}
+.head-top>.survey-name
+{
+    font-size:22px;
+    font-weight: 500;
+    margin:0;
+    margin-bottom:15px;
+    box-sizing: border-box;
+
+}
+.head-options>.options-button
+{
+    border:1px solid black;
+    background: #4d0000;
+    color:white;
+    text-align:center;
+    padding:6px;
+    font-size:14px;
+    box-sizing: border-box;
+}
+.head-bottom
+{
+    display:flex;
+
+}
+.save-stat
+{
+    display: flex;
+    margin-left:auto;
+    margin-right:20px;
+}
+.head-bottom>.save-button
+{
+    margin-left:auto;
+    margin-right:20px;
+}
+.add-new-object
+{
+    display: block;
+    width:100%;
+    text-align:center;
+    border:1px solid black;
+    padding-top:5px;
+    padding-bottom:5px;
+    color:white;
+    background-color: #4d0000;
+    margin-top:10px;
+}
+.content-survey
+{
+    border:1px solid;
+    margin-top:10px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:20px;
+    padding-right:20px;
+}
+
+/* .multiple-choice-test */
+.multiple-choice-test
+{
+   border:1px solid;
+   display: flex;
+   align-items: center;
+   
+}
+.multiple-choice-test>.checkbox
+{
+    border-radius:100%;
+}
+.multiple-choice-test .text
+{
+    padding-left:10px;
+    margin:0;
+}
+.multiple-choice-test .choice-list>.choice
+{
+    display: flex;
+    flex-flow: row;
+    text-align: center;
+    align-content: center;
+    align-self: center;
+}
+.add-new
+{
+    color:red;
+}
+.options-body
+{
+    margin-left:auto;
+    margin-right:20px;
+}
+
+.options-body>.option-click
+{
+    border:1px solid black;
+    background: #4d0000;
+    color:white;
+    text-align:center;
+    padding:8px;
+    font-size:20px;
+    box-sizing: border-box;
+    
+}
