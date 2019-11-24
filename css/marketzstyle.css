@@ -1,0 +1,188 @@
+body{
+	padding: 0;
+	margin: 0;
+	font: 30px;
+	background: white;
+	position: relative;
+}
+
+
+
+.container{
+	margin: auto;
+	overflow: hidden;
+}
+
+header{
+	background-color: rgba(31,51,73,.5)!important;
+	position: relative;
+	padding-bottom:35px;
+	margin: 0;
+}
+
+header img{
+	size: 50px 50px;
+}
+
+#logo{
+	border:1px solid;
+	padding-top:20px;
+	padding-bottom:15px;
+}
+#logo > h1{
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	font-style: italic;
+	text-shadow: -10px -5px #000000;
+	word-spacing: 1em;
+	margin:0;
+}
+
+header nav{
+	float: right;
+	margin: 20px;
+	padding-top: 5px;
+}
+
+header a{
+	color: #ffb3b3;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+header a:hover{
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.header-content a:hover{
+	color: black;
+}
+
+
+
+.sidenav{
+	height: 100%;
+	width: 200px;
+	position: fixed;
+	z-index: 10;
+	top: 0;
+	left: 0;
+	background-color: #4d0000;
+	overflow-x: hidden;
+}
+
+#logopic{
+	margin-left: 50px;
+}
+
+.sidenav ul{
+	padding: 0;
+	margin-left: 35px;
+	margin-top: 0px;
+}
+
+.sidenav li{
+	color: #4d0000;
+}
+
+.sidenav  a{
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	display: block;
+	padding: 15px 0;
+}
+
+.sidenav  a:hover{
+	text-decoration: none;
+}
+
+.sidenav li a:hover{
+	font-weight: bold;
+	color: #ff5050;
+}
+
+.sidenav li a.active{
+	color: #ff0000;
+	font-weight: bold;
+}
+
+.footer{
+	color: white;
+	bottom: 20px;
+	left: 16px;
+	border:1px solid transparent;
+	line-height:10px;
+	font-size:13px !important;
+	position: absolute;
+}
+
+
+
+/*gamebody*/
+.game-body
+{
+	border:1px solid;
+	width:100%;
+	max-width: 945px;
+	font-size: 1.125rem;
+}
+.game-body > #game-info
+{
+	border:1px solid;
+}
+#game-info
+{
+	width: 292px;
+	height:100%;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	position:relative;
+}
+#game-info>.detail
+{
+
+}
+#game-info>.detail>.name
+{
+	margin:0;
+	font-size:17px;
+}
+#game-info>.detail>.info-parent
+{
+	font-size:12.5px;
+	display:flex;
+	list-style:none; 
+	padding :unset;
+	margin:0;
+}
+.info-parent>.info-child:nth-child(1),
+.info-parent>.info-child:nth-child(2)
+{
+	margin-right:3px;
+}
+
+
+.catergory
+{	
+	margin-top:10px;
+	display: flex;
+	font-size:13px
+}
+.catergory>.button
+{
+	border:1px solid black;
+	margin-right:5px;
+	padding:5px 3px;
+}
+
+/*gamebody*/
+
+.signin-modal{
+	padding: 10px 0 10px 50px;
+}

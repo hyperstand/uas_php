@@ -1,0 +1,42 @@
+.help
+{
+
+}
+.help>.content
+{
+    border:1px solid;
+}
+.content>.head>.title
+{
+    font-size:35px;
+    font-weight:500;
+}
+.content>.head>.desc
+{
+    font-size:15px;
+}
+
+/* background */
+/* .help-only-background
+{
+    border:1px solid black;
+    margin-left:200px;
+    min-height:400px;
+}
+.help-only-background>.content
+{
+    margin: 0 auto;
+    border:1px solid black;
+    width:auto;
+    text-align: center;
+    padding-top:80px;   
+} */
+
+.question-box
+{
+    border:1px solid black;
+}
+.question-box>.fa-chevron-down
+{
+    
+}

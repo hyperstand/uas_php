@@ -1,0 +1,38 @@
+.head-info
+{
+    border:1px solid black;
+    display: flex;
+    padding:10px;
+    padding-right:20px;
+}
+.head-info>.button-big
+{
+    border:1px solid black;
+    background: #4d0000;
+    color:white;
+    text-align:center;
+    padding:6px;
+    font-size:14px;
+    align-content: center;
+    align-self: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-flow: column;
+}
+.head-info>.button-big:hover
+{
+text-decoration: none;
+}
+.head-info>.info
+{
+    border:1px solid transparent;
+    width:100%;
+    padding:10px;
+}
+
+
+
+
+
+/* game-modal */
+
