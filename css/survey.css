@@ -99,7 +99,10 @@
     align-items: center;
     justify-content: center;
     flex-flow: column;
+<<<<<<< HEAD
     cursor: pointer;
+=======
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 }
 .survey-add > .large
 {
@@ -127,7 +130,14 @@
 }
 .head-options>.options-button
 {
+<<<<<<< HEAD
 
+=======
+    border:1px solid black;
+    background: #4d0000;
+    color:white;
+    text-align:center;
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
     padding:6px;
     font-size:14px;
     box-sizing: border-box;
@@ -156,7 +166,12 @@
     border:1px solid black;
     padding-top:5px;
     padding-bottom:5px;
+<<<<<<< HEAD
 
+=======
+    color:white;
+    background-color: #4d0000;
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
     margin-top:10px;
 }
 .content-survey
@@ -206,6 +221,7 @@
 
 .options-body>.option-click
 {
+<<<<<<< HEAD
     padding:8px;
     font-size:20px;
     box-sizing: border-box;
@@ -215,4 +231,14 @@
 .respondent
 {
     border:1px solid black;
+=======
+    border:1px solid black;
+    background: #4d0000;
+    color:white;
+    text-align:center;
+    padding:8px;
+    font-size:20px;
+    box-sizing: border-box;
+    
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 }

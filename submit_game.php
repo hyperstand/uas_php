@@ -12,6 +12,7 @@
     <link href="https://fonts.googleapis.com/css?family=Hepta+Slab&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/sidenav_user.css">
+<<<<<<< HEAD
 	<!-- <link rel="stylesheet" href="css/profile.css"> -->
     <link rel="stylesheet" href="css/games.css">
     <link rel="stylesheet" href="css/modal.css">   
@@ -117,6 +118,42 @@
                 </tr>
                 </table>
 			
+=======
+    <link rel="stylesheet" href="css/profile.css">
+    
+</head>
+<body>
+	<section class="sidenav" style="z-index: 99999">
+        <nav>
+            <div class="logo-slide">
+                    <div id="logo">
+                        <h1>~Marketz~</h1>
+                    </div>
+            </div>
+
+            <ul class="nav-list">
+                <li class="list-data"><a href="logged_in_user.php">Games</a></li>
+                <li class="list-data"><a href="logged_in_vsurvey.php" >Need Survey Data</a></li>
+                <li class="list-data"><a href="not_available.html">Be A Game Creator</a></li>
+                <li class="list-data"><a href="">Help</a></li>
+            </ul>
+        </nav>
+
+        <div class="footer">
+                <div>
+                <a href="not_available.html" style="font-size:15px;">About Us</a>
+                <a href="not_available.html" style="font-size:15px;">Contact Us</a>
+                </div>
+                <p style="font-size:15px;">© 2019 Marketz, LLC</p>
+            </div>
+    </section>
+    
+    <div class="content" style="margin-left:200px;padding-top:40px;padding-bottom:20px;">
+        <div style="max-width:800px;margin:0 auto;">
+            
+           <p style="font-size:20px;">My Games</p>
+            
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 
         </div>
     </div>
@@ -129,5 +166,8 @@
 			  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
 			  crossorigin="anonymous"></script>
 <script src="js/user.js"></script>
+<<<<<<< HEAD
 <script src="js/submit_games.js"></script>
+=======
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 </html>

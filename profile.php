@@ -14,7 +14,10 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="css/sidenav_user.css">
     <link rel="stylesheet" href="css/profile.css">
+<<<<<<< HEAD
     <link rel="stylesheet" href="css/basic.css">
+=======
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
     
 </head>
 <body>
@@ -44,8 +47,14 @@
         </section>
  
     
+<<<<<<< HEAD
         <div class="basic-content">
         <div class="basic-width-center-800px">	
+=======
+    <div class="content" style="margin-left:200px;padding-top:40px;padding-bottom:20px;">
+        <div style="max-width:800px;margin:0 auto;">
+            
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
             <div style="display: grid;grid-template-columns: 350px 440px;grid-gap:10px;border:1px solid transparent;box-sizing: border-box;">
                     <div class="basic-info">
                             <img src="Images/base_image_user.jpg" alt="" class="round-image user-image">
@@ -61,15 +70,26 @@
                     </div>
             </div>
             
+<<<<<<< HEAD
             <!-- <div class="tabs-profile">
                <a href="" class="general-button">Games</a>
                <a href="" class="general-button">Favorite</a>
             </div> -->
+=======
+            <div class="tabs-profile">
+               <a href="" class="general-button">Games</a>
+               <a href="" class="general-button">Favorite</a>
+            </div>
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 
             <div class="content-profile">
                 <div class="head" style="border:1px solid transparent !important;">
                     <p class="margin-0 title">Games</p>
+<<<<<<< HEAD
                     <!-- <a href="" class="general-button" style="margin-left:auto;margin-right:20px;">Filter</a> -->
+=======
+                    <a href="" class="general-button" style="margin-left:auto;margin-right:20px;">Filter</a>
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
                 </div>
 
                 <div class="games-info">

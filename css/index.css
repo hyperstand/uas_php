@@ -34,8 +34,12 @@ header,#top
 {
 	width:100%;
 	max-width: 945px;
+<<<<<<< HEAD
 	margin-top: 100px;
 	margin-bottom: 100px;
+=======
+
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 }
 
 
@@ -130,7 +134,15 @@ header .header-content
 /* Loading */
 .game-loader{
 	border:1px solid;
+<<<<<<< HEAD
 	text-align: center;
+=======
+}
+.game-loader > .text 
+{
+	margin:0;
+	padding:0;
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 }
 
 

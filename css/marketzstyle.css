@@ -6,7 +6,22 @@ body{
 	position: relative;
 }
 
+<<<<<<< HEAD
 
+=======
+.pad
+{
+/*	padding-left:60px;
+	padding-right:60px;*/
+	padding-bottom:20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 
 .container{
 	margin: auto;
@@ -61,6 +76,14 @@ header a:hover{
 	color: black;
 }
 
+<<<<<<< HEAD
+=======
+#top{
+	margin-top: 10px;
+	text-align: center;
+}
+
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 
 
 .sidenav{
@@ -96,10 +119,13 @@ header a:hover{
 	padding: 15px 0;
 }
 
+<<<<<<< HEAD
 .sidenav  a:hover{
 	text-decoration: none;
 }
 
+=======
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 .sidenav li a:hover{
 	font-weight: bold;
 	color: #ff5050;

@@ -61,8 +61,12 @@
     box-sizing: border-box;
 }
 .content-profile
+<<<<<<< HEAD
 {   
     margin-top:10px;
+=======
+{
+>>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
     border:1px solid black;
     padding-top:20px;
     padding-bottom:20px;
