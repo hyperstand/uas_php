@@ -37,17 +37,10 @@
             <div class="content">
                     <p class="margin-0 title">My Balance</p>
                     <p class="margin-0 balance"><?php echo "Rp. ".$user_logged_balance ?></p>
-<<<<<<< HEAD
 
             </div>
             <a href="payment.php" class="add-balance-button button-global">
                 Add
             </a>
-=======
-            </div>
-            <button class="add-balance" onclick="document.location.href='topupsaldo.php'">
-                Add
-            </button>
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
         </div>
     </div>  

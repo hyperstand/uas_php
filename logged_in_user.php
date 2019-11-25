@@ -43,13 +43,8 @@
 		
 
 
-<<<<<<< HEAD
 		    <div class="basic-content">
         <div class="basic-width-center-945px">
-=======
-	<section id="top">
-		<div class="pad">
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 			
 		<div class="content">
 
@@ -61,17 +56,10 @@
 										<button type="submit"><i class="fa fa-search"></i></button>
 								</form>
 						</div>
-<<<<<<< HEAD
 						<!-- <div class="main-button">
 							<a href="" style="border:1px solid black;background: #4d0000;color:white;padding:5px 10px;">Category</a>
 							<a href="" style="border:1px solid black;background: #4d0000;color:white;padding:5px 10px;">Filter</a>
 						</div> -->
-=======
-						<div class="main-button">
-							<a href="" style="border:1px solid black;background: #4d0000;color:white;padding:5px 10px;">Category</a>
-							<a href="" style="border:1px solid black;background: #4d0000;color:white;padding:5px 10px;">Filter</a>
-						</div>
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 				</div>
 
 			<!-- <div class="top-category">

@@ -14,10 +14,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="css/sidenav_user.css">
-<<<<<<< HEAD
     <link rel="stylesheet" href="css/basic.css">
-=======
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
     
 </head>
 <body>

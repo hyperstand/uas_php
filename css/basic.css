@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* table */
 table {
     font-family: arial, sans-serif;
@@ -18,8 +17,6 @@ table {
   }
 /* table */
 
-=======
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 .offset
 {
     margin-left:200px;
@@ -51,7 +48,6 @@ table {
     margin:0;
 }
 
-<<<<<<< HEAD
 .button-global
 {
     border:1px solid black;
@@ -66,8 +62,6 @@ table {
     text-decoration: none;
 }
 
-=======
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 /*placement*/
 .basic-content
 {
@@ -78,7 +72,6 @@ table {
 .basic-width-center-850px{
     max-width:850px;
     margin:0 auto;
-<<<<<<< HEAD
 }
 .basic-width-center-945px
 {
@@ -94,6 +87,4 @@ table {
 {
     max-width: 900px;
     margin:0 auto;
-=======
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 }

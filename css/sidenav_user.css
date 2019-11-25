@@ -19,14 +19,10 @@
     border:1px solid;
     height:50px;
 }
-<<<<<<< HEAD
 .profile-head
 {
     border-bottom:1px solid black;
 }
-=======
-
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 .user-panel:hover
 {
     -webkit-animation: slide 0.5s forwards;
@@ -36,16 +32,11 @@
 }
 .panel-butn
 {
-<<<<<<< HEAD
     border-bottom:1px solid black;
-=======
-    border:1px solid black;
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
     width:100%;
     display: block;
     padding:10px;
     padding-left:20px;
-<<<<<<< HEAD
     color:black;
 }
 .panel-butn:hover{
@@ -54,9 +45,6 @@
     color:white;
 }
 
-=======
-}
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 .icon-button
 {
     border:1px solid black;
@@ -99,11 +87,7 @@
     position: absolute;
     bottom: 0;
     left: 0;
-<<<<<<< HEAD
     border-top:1px solid black;
-=======
-    border:1px solid;
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
     padding:10px;
 
     width:100%;
@@ -118,7 +102,6 @@
     font-size:17px;
 }
 
-<<<<<<< HEAD
 .add-balance-button
 {
     margin-left:auto;
@@ -128,9 +111,4 @@
     padding-right:10px;
     align-self: center;
     height:100%;
-=======
-.add-balance
-{
-    margin-left:auto;
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
 }

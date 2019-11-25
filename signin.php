@@ -13,7 +13,6 @@ $con = mysqli_connect("localhost","root","","marketz") or die("Error connecting 
 ?>
 <html>
 <head>
-<<<<<<< HEAD
 <meta charset="utf-8">
 	<meta name="Keywords " content="game,survey,market">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,17 +28,6 @@ $con = mysqli_connect("localhost","root","","marketz") or die("Error connecting 
 	<link rel="stylesheet" href="vendor/boostrap.css">
     <link rel="stylesheet" href="css/sidenav_user.css">
     <link rel="stylesheet" href="css/help.css">
-=======
-	<meta charset="utf-8">
-	<meta name="Keywords " content="game,survey,market">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Marketz</title>
-	<link rel="stylesheet" type="text/css" href="css/marketzstyle.css">
-	<link rel="stylesheet" type="text/css" href="css/index.css">
-	<link rel="stylesheet" href="vendor/fontawesome5_10_2/css/all.min.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-  
->>>>>>> e136c5d3e72f8660083c8cc5c252a57ab644fdcd
   
 </head>
 
